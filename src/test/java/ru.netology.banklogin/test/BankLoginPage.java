@@ -1,9 +1,8 @@
 package ru.netology.banklogin.test;
 
-
-import org.junit.Test;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 import ru.netology.banklogin.data.DataHelper;
 import ru.netology.banklogin.data.SQLHelper;
 import ru.netology.banklogin.page.LoginPage;
